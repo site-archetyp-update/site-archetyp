@@ -58,4 +58,6 @@ This guide is presented solely for educational purposes. The information provide
 
 
 
-Update:  08/13/2025 Fixed dead url
+
+
+Update:  19 August 2025 Fixed url onion
