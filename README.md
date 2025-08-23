@@ -60,4 +60,6 @@ This guide is presented solely for educational purposes. The information provide
 
 
 
-Update:  19 August 2025 Fixed url onion
+
+
+Update:  23 August 2025 url updated and working
